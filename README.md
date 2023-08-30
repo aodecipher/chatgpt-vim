@@ -155,7 +155,7 @@ chatgpt install
 
 If there is a ~/.config/openai.token the openai api will be used by default.
 
-### Commands
+### Commands (there are many more commands now, see plugin/chatgpt.vim for details)
 
 `:Gpt` is available to either option chatgpt or openai.
 `:GptRun` and `:GptFile` are only available with the openai option.
@@ -170,8 +170,6 @@ If there is a ~/.config/openai.token the openai api will be used by default.
 - `gpr` Maps to the `:GptRun` command.
 - `gpf` Maps to the `:GptFile` command.
 
-
-### test
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -224,7 +222,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contact (original owner)
 
 Twitter: [@0xStabby](https://twitter.com/0xStabby)
 
